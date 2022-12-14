@@ -185,6 +185,9 @@ h1 {
   color: #E4E6EB;
   font-family: 'Bebas Neue', cursive;
 }
+h1{
+  text-align:start;
+}
 
 p {
   color: #E4E6EB;
